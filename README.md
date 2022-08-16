@@ -1,0 +1,1 @@
+# Detect if mouse is pluged in an deactivate touchepad
